@@ -1,44 +1,69 @@
-# 👋 ¡Hola! Soy Sebastián Trillos
+👋 ¡Hola! Soy Sebastián Trillos
+💻 Desarrollador de software | Backend & Frontend | Java • Python • Web
 
-💻 Desarrollador entusiasta con pasión por la **programación**, el **diseño web** y la **creación de interfaces interactivas**.  
-Me gusta combinar la lógica del backend con la estética del frontend para construir proyectos funcionales y modernos.
+Apasionado por crear soluciones tecnológicas modernas, funcionales y enfocadas en la experiencia del usuario. Me encanta aprender, mejorar cada día y construir proyectos que generen impacto real.
 
----
+🚀 Sobre mí
 
-### 🚀 Tecnologías que uso
+🎓 Estudiante de programación con enfoque en desarrollo web y aplicaciones Java.
 
-#### 🖥️ Frontend
-- HTML5 / CSS3 / JavaScript (ES6+)
-- Bootstrap 5
-- Diseño responsivo adaptable a cualquier dispositivo
+🧠 Actualmente aprendiendo Django, Java Swing, OOP, y desarrollo de sistemas empresariales.
 
-#### ☕ Backend / Lenguajes
-- Java (Programación Orientada a Objetos, Swing)
-- Python (nivel intermedio)
-- Git y GitHub para control de versiones
+📱 Me interesa el diseño de interfaces modernas y responsivas.
 
----
+⚙️ Trabajo en proyectos como sistemas bancarios, plataformas de marketing digital y aplicaciones interactivas.
 
-### 🌟 Proyectos realizados
+🧩 Me gusta resolver problemas y optimizar código.
 
-🔹 **ShopEase** — Plataforma de marketing digital con carrito de compras y diseño responsive.  
-🔹 **Batalla Pokémon en Java** — Juego interactivo con interfaz gráfica (Swing) y selección de personajes.  
-🔹 **Sistema Bancario** — Aplicación con múltiples clases, UML y manejo de transacciones.  
-🔹 **Gestor de Tareas en Python** — Sistema con listas dinámicas y persistencia de datos.  
-🔹 **Simulador de Ventas** — Proyecto en Java con interfaz de usuario, operaciones y reportes automáticos.  
+🛠️ Tecnologías que utilizo
+Lenguajes
 
----
+Java
 
-### 🧠 Sobre mí
-- 📘 Estudiante de desarrollo de software y entusiasta del aprendizaje constante.  
-- 🧩 Disfruto resolver problemas y optimizar código.  
-- 🎯 Mi objetivo: seguir creciendo como desarrollador Full Stack.  
+Python
 
----
+JavaScript
 
-### 🛠️ Estadísticas de GitHub
-![Sebastián's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=tokyonight)
+HTML5 / CSS3
 
----
+SQL
 
-⭐ *“El mejor código no solo funciona, también se entiende.”*
+Frameworks y herramientas
+
+Django
+
+Swing
+
+Bootstrap
+
+Git & GitHub
+
+UML (StarUML, Mermaid)
+
+📌 Proyectos Destacados
+🔹 Sistema Bancario en Java (Swing + POO)
+
+Aplicación con GUI que maneja clientes, cuentas, transacciones y UML completo.
+
+🔹 ShopEase – Plataforma Web de Marketing Digital
+
+Página moderna y responsiva con HTML, CSS, JS y Django.
+
+🔹 Batalla Pokémon en Java (Juego 2D)
+
+Dos jugadores, selección de Pokémon, animaciones y mecánicas dinámicas.
+
+🔹 Ejercicios de Matemáticas: Derivadas, Integrales y Física
+
+Colección de documentos y PDFs educativos generados con programación.
+
+📊 Estadísticas
+
+📫 Conéctate conmigo
+
+Correo: agrega tu correo aquí
+LinkedIn: agrega tu linkedin aquí
+
+🧠 Frase que me inspira
+
+“El código es como el humor. Cuando tienes que explicarlo, no es bueno.”
