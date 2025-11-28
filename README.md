@@ -1,24 +1,28 @@
-# 👋 ¡Hola! Soy Sebastián Trillos
-💻 Desarrollador de software | Backend & Frontend | Java • Python • Web
+# 👨‍💻 Sebastián Trillos — Desarrollador de Software
 
-Apasionado por crear soluciones tecnológicas modernas, funcionales y enfocadas en la experiencia del usuario. Me encanta aprender, mejorar cada día y construir proyectos que generen impacto real.
+Bienvenido a mi perfil de GitHub. Soy un desarrollador orientado a la construcción de soluciones sólidas, escalables y bien estructuradas, con especial interés en el desarrollo backend, arquitectura básica de software y creación de interfaces funcionales. Me caracterizo por aprender rápido, documentar bien mis procesos y aplicar buenas prácticas en cada proyecto.
 
-# 🚀 Sobre mí
+# 🚀 Enfoque Como Desarrollador
 
-🎓 Estudiante de programación con enfoque en desarrollo web y aplicaciones Java.
+Me considero un desarrollador que combina lógica, organización y claridad.
+Mi forma de trabajar se basa en:
 
-🧠 Actualmente aprendiendo Django, Java Swing, OOP, y desarrollo de sistemas empresariales.
+Estructurar bien cada proyecto, desde la idea hasta el código final.
 
-📱 Me interesa el diseño de interfaces modernas y responsivas.
+Aplicar Programación Orientada a Objetos para lograr sistemas más claros y mantenibles.
 
-⚙️ Trabajo en proyectos como sistemas bancarios, plataformas de marketing digital y aplicaciones interactivas.
+Diseñar interfaces intuitivas y funcionales, tanto en Java (Swing) como en web.
 
-🧩 Me gusta resolver problemas y optimizar código.
+Documentar mediante UML, patrones básicos y explicaciones detalladas.
 
-# 🛠️ Tecnologías que utilizo
-Lenguajes
+Resolver problemas de manera analítica, optimizando procesos y refactorizando cuando es necesario.
 
-Java
+Desarrollo constante, incorporando nuevas tecnologías y fortaleciendo las que ya domino.
+
+# 🛠️ Tecnologías y habilidades
+## 🔹 Lenguajes
+
+Java (POO, Swing, estructuras de datos)
 
 Python
 
@@ -28,41 +32,60 @@ HTML5 / CSS3
 
 SQL
 
-Frameworks y herramientas
+## 🔹 Frameworks y herramientas
 
 Django
-
-Swing
 
 Bootstrap
 
 Git & GitHub
 
-UML (StarUML, Mermaid)
+UML (Mermaid, StarUML)
 
-# 📌 Proyectos Destacados
-🔹 Sistema Bancario en Java (Swing + POO)
+MySQL / SQLite
 
-Aplicación con GUI que maneja clientes, cuentas, transacciones y UML completo.
+## 🔹 Competencias técnicas
 
-🔹 ShopEase – Plataforma Web de Marketing Digital
+Arquitectura simple de software
 
-Página moderna y responsiva con HTML, CSS, JS y Django.
+Diseño de clases y modelado
 
-🔹 Batalla Pokémon en Java (Juego 2D)
+Manejo de excepciones
 
-Dos jugadores, selección de Pokémon, animaciones y mecánicas dinámicas.
+CRUD y manejo de bases de datos
 
-🔹 Ejercicios de Matemáticas: Derivadas, Integrales y Física
+Documentación técnica y análisis de sistemas
 
-Colección de documentos y PDFs educativos generados con programación.
+# 📂 Proyectos Recientes
 
-# 📊 Estadísticas
+Sistema Bancario en Java:
+Arquitectura por paquetes, GUI con Swing, manejo de transacciones, clientes y cuentas.
 
-📫 Conéctate conmigo
+ShopEase - Plataforma Web:
+Sitio web completo con HTML, CSS, JS y Django; diseño moderno y responsivo.
 
-Correo: trillossebastian148@gmail.com
+Juego Pokémon en Java:
+Batalla dinámica para dos jugadores, selección de personajes y animaciones.
 
-🧠 Frase que me inspira
+Material académico propio:
+PDFs detallados sobre integrales, derivadas, física mecánica y más.
 
-“El código es como el humor. Cuando tienes que explicarlo, no es bueno.”
+# 📈 Mi mentalidad de crecimiento
+
+Busco mejorar en buenas prácticas, limpieza de código y pensamiento algorítmico.
+
+Me enfoco en aprender tecnologías modernas y aplicarlas en proyectos reales.
+
+Disfruto crear proyectos que combinen lógica, diseño y estructura profesional.
+
+# 📫 Contacto
+
+Si deseas colaborar o revisar mis proyectos:
+
+Correo: agrega tu correo aquí
+
+LinkedIn: agrega tu LinkedIn aquí
+
+## 🧩 Filosofía de desarrollo
+
+“Un buen código no solo funciona, también se entiende.”
