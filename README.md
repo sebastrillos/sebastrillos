@@ -82,9 +82,7 @@ Disfruto crear proyectos que combinen lógica, diseño y estructura profesional.
 
 Si deseas colaborar o revisar mis proyectos:
 
-Correo: agrega tu correo aquí
-
-LinkedIn: agrega tu LinkedIn aquí
+Correo: trillossebastian148@gmail.com
 
 ## 🧩 Filosofía de desarrollo
 
