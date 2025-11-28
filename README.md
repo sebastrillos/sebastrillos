@@ -67,9 +67,6 @@ Sitio web completo con HTML, CSS, JS y Django; diseño moderno y responsivo.
 Juego Pokémon en Java:
 Batalla dinámica para dos jugadores, selección de personajes y animaciones.
 
-Material académico propio:
-PDFs detallados sobre integrales, derivadas, física mecánica y más.
-
 # 📈 Mi mentalidad de crecimiento
 
 Busco mejorar en buenas prácticas, limpieza de código y pensamiento algorítmico.
