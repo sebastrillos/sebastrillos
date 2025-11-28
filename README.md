@@ -1,9 +1,9 @@
-👋 ¡Hola! Soy Sebastián Trillos
+# 👋 ¡Hola! Soy Sebastián Trillos
 💻 Desarrollador de software | Backend & Frontend | Java • Python • Web
 
 Apasionado por crear soluciones tecnológicas modernas, funcionales y enfocadas en la experiencia del usuario. Me encanta aprender, mejorar cada día y construir proyectos que generen impacto real.
 
-🚀 Sobre mí
+# 🚀 Sobre mí
 
 🎓 Estudiante de programación con enfoque en desarrollo web y aplicaciones Java.
 
@@ -15,7 +15,7 @@ Apasionado por crear soluciones tecnológicas modernas, funcionales y enfocadas 
 
 🧩 Me gusta resolver problemas y optimizar código.
 
-🛠️ Tecnologías que utilizo
+# 🛠️ Tecnologías que utilizo
 Lenguajes
 
 Java
@@ -40,7 +40,7 @@ Git & GitHub
 
 UML (StarUML, Mermaid)
 
-📌 Proyectos Destacados
+# 📌 Proyectos Destacados
 🔹 Sistema Bancario en Java (Swing + POO)
 
 Aplicación con GUI que maneja clientes, cuentas, transacciones y UML completo.
@@ -57,12 +57,11 @@ Dos jugadores, selección de Pokémon, animaciones y mecánicas dinámicas.
 
 Colección de documentos y PDFs educativos generados con programación.
 
-📊 Estadísticas
+# 📊 Estadísticas
 
 📫 Conéctate conmigo
 
-Correo: agrega tu correo aquí
-LinkedIn: agrega tu linkedin aquí
+Correo: trillossebastian148@gmail.com
 
 🧠 Frase que me inspira
 
